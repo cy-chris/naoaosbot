@@ -1,9 +1,9 @@
 const help = (prefix) => {
 	return `
-💥🔴💥🔴💥🔴💥🔴💥🔴
-MEU WHATSAPP:http://WA.me/5575999056928
 
-aqui vão estar todos os comandos 🐊💥
+MEU WHATSAPP:http://wa.me/558196207906
+
+aqui vão estar todos os comandos da milena
 
 🥶 *Comandos para figurinhas* 🐊
 
@@ -109,10 +109,10 @@ Comando : *${prefix}linkgroup*
 (não sei se tá funcionando, mais se estiver serve para baixar música)
 
  MAIS INFORMAÇÕES:
-WHATSAPP: http://WA.me/5575999056928
+WHATSAPP: http://wa.me/5581996207906
 MEU 
 
-DIVIRTA-SE SEUS GOSTOSOS(A)😁👋
+espero que vcs gostem que ta foda termina meus bot pq ta tudo sendo banido :( by cychris <3
 
 }
 
